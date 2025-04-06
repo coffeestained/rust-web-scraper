@@ -1,0 +1,6 @@
+MONGO_URI=mongodb://localhost:27017
+MONGO_DB_NAME=web_scraper
+MONGO_CONFIG_COLLECTION=configuration
+MONGO_DATA_COLLECTION=categorized_data
+SCRAPE_INTERVAL_MINUTES=5
+LOG_LEVEL=debug
